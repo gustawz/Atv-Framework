@@ -1,0 +1,9 @@
+Um framework é uma base pronta, composta por elementos e funcionalidades pré-construídos, que serve como ponto de partida para desenvolver aplicações. Ele funciona como um guia ou molde que determina a forma de construir um sistema, seguindo normas e padrões definidos.
+
+Sua característica mais marcante é a inversão de controle: em vez de o desenvolvedor chamar diretamente as funções (como ocorre com bibliotecas), é o próprio framework que gerencia o fluxo da aplicação.
+
+Essas ferramentas trazem componentes reutilizáveis e já testados, acelerando o desenvolvimento, garantindo qualidade e uniformizando o código, o que facilita tanto o trabalho em equipe quanto a manutenção.
+
+De forma simples, uma biblioteca pode ser vista como uma caixa de ferramentas que você utiliza quando precisa, enquanto um framework é a estrutura que orienta e organiza todo o trabalho.
+
+Entre os exemplos mais conhecidos estão React e Angular (front-end) e Django e Laravel (back-end). Os frameworks são fundamentais no desenvolvimento atual, pois tornam a criação de aplicações robustas muito mais ágil e eficiente.
